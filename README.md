@@ -22,9 +22,6 @@ employees. Also used to read and test product requirements;
 socket to find the cause of the bug.
 
 
-
-- :mailbox: contact me: [![Telegram Badge](https://img.shields.io/badge/-MishaMost1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MishaMost1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](prilipko.mikhail@gmail.com)
-
 ### 🤝 Social media:
   <div id="badges">
     <a href="https://www.linkedin.com/in/"https://www.linkedin.com/in/misha-p/" target="_blank">
