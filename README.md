@@ -1,7 +1,20 @@
-# Привет, меня зовут Алексей!
+# Hi, my Name is Mikhail!
 ---
-### :man_technologist: Обо мне:
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основаное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
+### :man_technologist: About me:
+I am a beginner Quality Assurance Engineer, I completed QA courses with the highest mark
+Freelanced on two web apps and one mobile game:
+- Work with Web, Mobile platforms;
+- Product requirements verification;
+- Providing suggestions to improve product quality;
+- Creating and maintaining test documentation;
+- Jira - Reporting bugs, providing steps, and additional information, capturing 
+(attachments);
+- Git - To control versions and changes to program files;
+- TestRail - Creating and keeping Test Cases and Test Suites;
+- Confluence - Create and store process information (guides) for new 
+employees. Also used to read and test product requirements; 
+- Chrome DevTools - Reading information directly from the console or a web 
+socket to find the cause of the bug.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
