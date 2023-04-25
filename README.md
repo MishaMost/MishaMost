@@ -21,7 +21,7 @@ employees. Also used to read and test product requirements;
 - Chrome DevTools - Reading information directly from the console or a web 
 socket to find the cause of the bug.
 
-- :mailbox: Contact me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ### 🤝 Social media:
   <div id="badges">
