@@ -1,4 +1,4 @@
-# Hi, my name is Misha, I'm a QA Engineer2
+# Hi, my name is Misha, I'm a QA Engineer
 ---
 ### :man_technologist: ABOUT ME:
 
