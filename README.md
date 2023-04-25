@@ -1,8 +1,6 @@
-# Hi, my Name is Mikhail!
+# Hi, my name is Misha, I'm a QA Engineer
 ---
 ### :man_technologist: ABOUT ME:
-
-I am a beginner QA engineer, I completed QA courses with the highest mark.
 
 october 2022- april 2023 (Freelance) Quality Assarance Engineer
 
